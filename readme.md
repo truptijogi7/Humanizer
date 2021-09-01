@@ -6,7 +6,7 @@ Humanizer meets all your .NET needs for manipulating and displaying strings, enu
 
 [![Join the chat at https://gitter.im/Humanizr/Humanizer](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Humanizr/Humanizer)
 
-### Table of contents
+### Table of contents test commit
  - [Install](#install)
    - [Specifying Languages (Optional)](#specify-lang)
    - [Known Installation Issues](#known-issues)
